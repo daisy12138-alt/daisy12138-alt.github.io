@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://daisy12138-alt.github.io/sitemap.xml
